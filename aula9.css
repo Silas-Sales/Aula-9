@@ -1,0 +1,8 @@
+body{
+    background-color: #8f8c8a;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px solid black;
+    border-radius: 10px;
+}
